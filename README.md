@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mrdatdepzai
-- 👀 I’m student 
-- Contact:https://www.facebook.com/MrDatDepZaii/
+#### 👋 Hi, I’m @mrdatdepzai
+#### Contact:https://www.facebook.com/MrDatDepZaii/
 
 
 
