@@ -5,7 +5,7 @@
 
  - 👀Tên thật của mình là: **NGUYỄN HỮU ĐẠT**
  - 🔭Mình đang là một học sinh tại trường **THPT PHAN HUY CHU**
- - Mình hiện đang học tập và sinh sống tại **Hà Nội**
+ - 🏡Mình hiện đang học tập và sinh sống tại **Hà Nội**
  
 
 **Liên hệ:**
