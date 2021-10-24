@@ -1,12 +1,26 @@
-#### 👋 Hi, I’m @mrdatdepzai
-#### Contact:https://www.facebook.com/MrDatDepZaii/
-#### https://mrdatdepzai.github.io/nguyenhuudat/
+### Chào 👋, tớ là [mrdatdepzai](https://github.com/mrdatdepzai)
+
+**Giới thiệu về bản thân:**
+
+ - 👀Tên thật của mình là: **NGUYỄN HỮU ĐẠT**
+ - 🔭Mình đang là một học sinh tại trường **THPT PHAN HUY CHU**
+ - Mình hiện đang học tập và sinh sống tại **Hà Nội**
+ 
+
+**Liên hệ:**
+ 
+ - Facebook: [Nguyễn Hữu Đạt](https://fb.me/MrDatDepZaii)
+ - Email: [dat037sk@gmail.com](mailto:dat037skt@gmail.com)
+ - Github: [mrdatdepzai](https://github.com/mrdatdepzai)
+
+**Donate me:**
+ - Momo: [0866051437](https://nhantien.momo.vn/mrdatdepzai)
+ - MB BANK: 0866051437
 
 
 
-# Chào Bạn 👋
-#### 👀 I’m student 
-#### 🔭 tui sống tại TP Hà Nội
+
+
 
 
 <br>
