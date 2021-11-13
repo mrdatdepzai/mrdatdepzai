@@ -40,4 +40,6 @@
 <br>
 <br>
 <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdatdepzai&theme=radical)
+
 Trộm của Citnut
