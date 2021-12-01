@@ -17,6 +17,8 @@
 **Donate me:**
  - Momo: [0866051437](https://nhantien.momo.vn/mrdatdepzai)
  - MB BANK: 0866051437
+ - Bitcoin: bc1qrqkhtl4fvf8m3nvu4vkpafk06u99x99nnwktcn
+ - Ethereum:0xACD53f455735E128C9F1683A707d4F8BDA7a7b05
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdatdepzai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
