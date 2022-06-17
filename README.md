@@ -13,6 +13,9 @@
  - Facebook: [Nguyễn Hữu Đạt](https://fb.me/MrDatDepZaii)
  - Email: [dat037sk@gmail.com](mailto:dat037skt@gmail.com)
  - Github: [mrdatdepzai](https://github.com/mrdatdepzai)
+ - Telegram [Toan Nguyen](https://t.me/toansx)
+ - Twitter [KakaNoPro](https://twitter.com/KakaNoPro)
+ - Zalo [Nguyễn Hữu Đạt](zalo.me/MrDatDepZai)
 
 **Donate me:**
  - Momo: [0866051437](https://nhantien.momo.vn/mrdatdepzai)
@@ -53,4 +56,4 @@
 <br>
 
 
-Trộm của Citnut
+#Stolen
