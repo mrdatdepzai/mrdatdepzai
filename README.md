@@ -13,7 +13,7 @@
  - Facebook: [Nguyễn Hữu Đạt](https://fb.me/MrDatDepZaii)
  - Email: [dat037sk@gmail.com](mailto:dat037skt@gmail.com)
  - Github: [mrdatdepzai](https://github.com/mrdatdepzai)
- - Telegram [Toan Nguyen](https://t.me/toansx)
+ - Discord [Detective Conan](https://t.me/conandoylevn)
  - Twitter [KakaNoPro](https://twitter.com/KakaNoPro)
  - Zalo [Nguyễn Hữu Đạt](zalo.me/MrDatDepZai)
 
