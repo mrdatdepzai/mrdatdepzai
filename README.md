@@ -54,6 +54,3 @@
 <br>
 <br>
 <br>
-
-
-#Stolen
