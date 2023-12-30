@@ -1,4 +1,4 @@
-### Chào 👋, tớ là [mrdatdepzai](https://github.com/mrdatdepzai)
+### Chào 👋, tớ là [Dat](https://github.com/mrdatdepzai)
 
 **Giới thiệu về bản thân:**
 
