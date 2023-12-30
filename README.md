@@ -11,7 +11,7 @@
 **Liên hệ:**
  
  - Facebook: [Nguyễn Hữu Đạt](https://fb.me/MrDatDepZai)
- - Email: [dat037sk@gmail.com](mailto:dat037skt@gmail.com)
+ - Email: [dat037sk@gmail.com](mailto:dat037sk@gmail.com)
  - Github: [mrdatdepzai](https://github.com/mrdatdepzai)
  - Telegram [Detective Conan](https://t.me/conandoylevn)
  - ICQ      [Nguyen Toan](https://icq.im/toansx)
