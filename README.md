@@ -19,8 +19,6 @@
  - Zalo [Nguyễn Hữu Đạt](zalo.me/MrDatDepZai)
 
 **Donate me:**
- - BIDV: datsk
- - MB BANK: nguyenhuudat
  - Bitcoin: bc1qrqkhtl4fvf8m3nvu4vkpafk06u99x99nnwktcn
  - Ethereum:0xACD53f455735E128C9F1683A707d4F8BDA7a7b05
 
