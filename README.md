@@ -12,11 +12,9 @@
  
  - Facebook: [Nguyễn Hữu Đạt](https://fb.me/MrDatDepZai)
  - Email: [dat037sk@gmail.com](mailto:dat037sk@gmail.com)
- - Github: [mrdatdepzai](https://github.com/mrdatdepzai)
  - Telegram [Detective Conan](https://t.me/conandoylevn)
  - ICQ      [Nguyen Toan](https://icq.im/toansx)
  - Twitter [KakaNoPro](https://twitter.com/KakaNoPro)
- - Zalo [Nguyễn Hữu Đạt](zalo.me/MrDatDepZai)
 
 **Donate me:**
  - Bitcoin: bc1qrqkhtl4fvf8m3nvu4vkpafk06u99x99nnwktcn
